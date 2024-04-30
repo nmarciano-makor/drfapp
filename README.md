@@ -17,10 +17,11 @@ Cette application utilise Django REST Framework pour calculer les taux d'impact 
 ### Installation locale
 
 1. Clonez ce dépôt
-2. 2. Lancez l'application avec Docker :
-   
+2.  Lancez l'application avec Docker :
+   ```
    docker build -t drfapp .
    docker run -p 8000:8000 drfapp
+```
    
 L'application sera disponible à l'adresse `http://localhost:8000/`.
 
