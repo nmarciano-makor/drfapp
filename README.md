@@ -1,6 +1,6 @@
 # Application de Calcul des Taux d'Impact Carbone
 
-Cette application utilise Django REST Framework pour calculer les taux d'impact carbone à partir des données fournies en une phrase.
+Cette application utilise Django REST Framework pour calculer les taux d'impact carbone à partir des données fournies.
 
 ## Fonctionnalités
 
