@@ -37,6 +37,6 @@ Listes des URLs:
 4. batiment/<int:id>/impact/ [name='impact_batiment']
 
 
-
+Pour la documentation j'aurai utiliser un outil tel que Swagger
 
 
