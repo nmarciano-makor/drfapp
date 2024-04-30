@@ -25,8 +25,15 @@ Cette application utilise Django REST Framework pour calculer les taux d'impact 
    
 L'application sera disponible à l'adresse `http://localhost:8000/`.
 
+
 ## Utilisation
 
 Une fois le serveur lancé, accédez à l'interface API à l'adresse `http://localhost:8000/` pour utiliser les fonctionnalités de calcul des taux d'impact carbone.
+Listes des URLs:
+
+admin/
+batiment/<int:id>/surface/ [name='batiment-surface']
+batiment/<int:id>/usage/ [name='usage']
+batiment/<int:id>/impact/ [name='impact_batiment']
 
 
